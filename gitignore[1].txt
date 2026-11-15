@@ -1,0 +1,7 @@
+# never commit secrets or local data
+api_key.txt
+*.db
+demo_*.png
+__pycache__/
+*.pyc
+.spyproject/
