@@ -57,4 +57,4 @@ python -m unittest -v test_scansense
 - Blurry or damaged photos may fail to decode.
 
 ## Authors
-Course CSC 2102 - Object-Oriented Programming, Fall 2026. Add your names here.
+Course CSC 2102 - Object-Oriented Programming, Fall 2026. Maha Alzaai and Fatma Saeed.
