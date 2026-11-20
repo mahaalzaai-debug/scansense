@@ -31,7 +31,7 @@ from PIL import Image, ImageTk
 # ---------------------------------------------------------------------------
 # SETTINGS - paste your API key between the quotes (leave "" to run without one)
 # ---------------------------------------------------------------------------
-API_KEY = ""
+API_KEY = "AIza...your key..."
 
 try:
     APP_DIR = Path(__file__).resolve().parent
